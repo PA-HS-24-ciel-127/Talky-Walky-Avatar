@@ -4,6 +4,8 @@ This Project contains the actual 3D Model of the Talky Walky Avatar in the form 
 
 After the initial creation through [Meshy](https://www.meshy.ai/discover), Talky Walky was adjusted and partially modelled from scratch in blender. Therefore this file also contains all of the manually created blendshapes and animations.
 
+In order to open the walky_talky.blend file, blender needs to be installed first. It can be downloaded for free from the official [blender website](https://www.blender.org/download/).
+
 # Mesh
 
 In order to change the mesh/shape of the model, go to the tabs 'Modeling' or 'Scultping', depending on your prefered method.
